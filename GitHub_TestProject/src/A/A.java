@@ -17,7 +17,11 @@ public class A {
 		
 		System.out.println("ok");
 		
+<<<<<<< HEAD
 		System.out.println("///");
+=======
+		System.out.println("ishwar 181818");
+>>>>>>> branch 'master' of https://github.com/rohan272727/rohan_test_Repo.git
 
 	}
 
