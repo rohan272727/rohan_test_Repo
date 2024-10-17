@@ -26,6 +26,9 @@ public class A {
 		System.out.println("okokokkkkkkkkkkkk");
 		
 		
+		System.out.println();
+		
+		
 		
 
 	}
