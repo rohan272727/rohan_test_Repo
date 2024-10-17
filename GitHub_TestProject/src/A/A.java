@@ -14,6 +14,8 @@ public class A {
 		System.out.println("Add One More Syso");
 
 		System.out.println("Hi I am ishwar I have added one More syso");
+		
+		System.out.println("ok");
 
 	}
 
