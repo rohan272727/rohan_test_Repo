@@ -17,11 +17,13 @@ public class A {
 		
 		System.out.println("ok");
 		
-
-		System.out.println("///");
-
 		System.out.println("ishwar 181818");
-
+		
+		
+		System.out.println("Ishwar");
+		
+		
+		
 
 	}
 
