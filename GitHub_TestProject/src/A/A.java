@@ -10,6 +10,8 @@ public class A {
 		
 		System.out.println("New Syso added By ishwar181818");
 		
+		System.out.println("Add One More Syso");
+		
 	}
 
 }
